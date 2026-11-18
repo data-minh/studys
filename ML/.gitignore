@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+data/*
+!data/.gitkeep
+*.pt
+*.pth
+*.bin
+*.safetensors
+checkpoints/
+wandb/

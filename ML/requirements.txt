@@ -1,0 +1,14 @@
+# Giai đoạn 0-2
+numpy
+matplotlib
+jupyterlab
+ipykernel
+# Giai đoạn 3+ (PyTorch: xem https://pytorch.org để chọn bản có CUDA nếu có GPU NVIDIA)
+torch
+tqdm
+# Giai đoạn 4-6 (bỏ comment khi tới)
+# tiktoken
+# datasets
+# transformers
+# trl
+# peft
